@@ -11,6 +11,7 @@ Ann Arbor,Michigan
 Antioch,California
 Arlington,Texas
 Arvada,Colorado
+Asheville,North Carolina
 Athens,Georgia
 Atlanta,Georgia
 Augusta,Georgia
@@ -53,10 +54,10 @@ Clarksville,Tennessee
 Clearwater,Florida
 Cleveland,Ohio
 Colorado Springs,Colorado
-"Columbia, S",South Carolina
 "Columbia, M",Missouri
-"Columbus, O",Ohio
+"Columbia, S",South Carolina
 "Columbus, G",Georgia
+"Columbus, O",Ohio
 Concord,California
 Coral Springs,Florida
 Corona,California
@@ -192,8 +193,8 @@ Overland Park,Kansas
 Oxnard,California
 Palm Bay,Florida
 Palmdale,California
-"Pasadena, T",Texas
 "Pasadena, C",California
+"Pasadena, T",Texas
 Paterson,New Jersey
 Pembroke Pines,Florida
 "Peoria, A",Arizona
@@ -214,11 +215,11 @@ Rancho Cucamonga,California
 Reno,Nevada
 Rialto,California
 Richardson,Texas
-"Richmond, V",Virginia
 "Richmond, C",California
+"Richmond, V",Virginia
 Riverside,California
-"Rochester, N",New York
 "Rochester, M",Minnesota
+"Rochester, N",New York
 Rockford,Illinois
 Roseville,California
 Round Rock,Texas
@@ -246,9 +247,9 @@ Simi Valley,California
 Sioux Falls,South Dakota
 South Bend,Indiana
 Spokane,Washington
-"Springfield, MI",Missouri
-"Springfield, MA",Massachusetts
 "Springfield, I",Illinois
+"Springfield, MA",Massachusetts
+"Springfield, MI",Missouri
 St. Louis,Missouri
 St. Petersburg,Florida
 Stamford,Connecticut
